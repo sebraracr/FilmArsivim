@@ -5,7 +5,11 @@ Filmlerinizi kategori ve YouTube linkiyle kaydedebilir, listeden seçtiğiniz fi
 
 > Bu proje, **"25 Derste 25 Uygulama"** serisi kapsamında geliştirilmiştir.
 
-![Ekran Görüntüsü](screenshot.png)
+<img width="1894" height="1008" alt="Ekran görüntüsü 2026-11-23 193300" src="https://github.com/user-attachments/assets/c51c2626-b31a-46ac-bec9-73c7f669a10b" />
+<img width="1903" height="988" alt="Ekran görüntüsü 2026-11-23 193310" src="https://github.com/user-attachments/assets/0fdb6d3a-6124-405a-add8-4aa8b98a06dd" />
+<img width="1899" height="1023" alt="Ekran görüntüsü 2026-11-23 193627" src="https://github.com/user-attachments/assets/f931b05a-0c93-429f-a907-119fe3d8a6c9" />
+<img width="1911" height="1004" alt="Ekran görüntüsü 2026-11-23 193822" src="https://github.com/user-attachments/assets/079ccfb6-e57c-4309-b983-16a728aa7733" />
+
 
 ## ✨ Özellikler
 
@@ -69,10 +73,6 @@ FilmArsivim/
 
 
 ⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın!
-<img width="1894" height="1008" alt="Ekran görüntüsü 2026-11-23 193300" src="https://github.com/user-attachments/assets/c51c2626-b31a-46ac-bec9-73c7f669a10b" />
-<img width="1903" height="988" alt="Ekran görüntüsü 2026-11-23 193310" src="https://github.com/user-attachments/assets/0fdb6d3a-6124-405a-add8-4aa8b98a06dd" />
-<img width="1899" height="1023" alt="Ekran görüntüsü 2026-11-23 193627" src="https://github.com/user-attachments/assets/f931b05a-0c93-429f-a907-119fe3d8a6c9" />
-<img width="1911" height="1004" alt="Ekran görüntüsü 2026-11-23 193822" src="https://github.com/user-attachments/assets/079ccfb6-e57c-4309-b983-16a728aa7733" />
 
 
 
